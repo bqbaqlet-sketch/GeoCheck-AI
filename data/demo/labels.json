@@ -1,0 +1,32 @@
+[
+  {
+    "start": 2125.5,
+    "end": 2128.25,
+    "curve": "GR [API]",
+    "kind": "missing"
+  },
+  {
+    "start": 2163.0,
+    "end": 2164.25,
+    "curve": "RHOB [g/cm3]",
+    "kind": "physical"
+  },
+  {
+    "start": 2204.0,
+    "end": 2207.0,
+    "curve": "DT [us/ft]",
+    "kind": "outlier"
+  },
+  {
+    "start": 2246.25,
+    "end": 2247.75,
+    "curve": "NPHI [v/v]",
+    "kind": "jump"
+  },
+  {
+    "start": 2275.25,
+    "end": 2277.75,
+    "curve": "RES [ohm.m]",
+    "kind": "outlier"
+  }
+]
